@@ -1,6 +1,6 @@
 
 
-# Projeto curso Alura página dinamica, modelo apresentação usando HTML, CSS e JAVA SCRIPT.
+# Projeto curso Alura página dinamica, modelo apresentação usando html, css e java script .
 
 https://portfolio-dun-ten-14.vercel.app/
 
