@@ -8,8 +8,6 @@ https://portfolio-dun-ten-14.vercel.app/
 
  Praticando:
 - estruturas de tags
-- responsividade
-- classes, posicionamento e Flexbox
 - cabeçalho, footer e variáveis CSS
 
           
