@@ -10,6 +10,6 @@ https://portfolio-dun-ten-14.vercel.app/
                         
                         
                         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"v />
           
           
